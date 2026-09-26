@@ -1,17 +1,21 @@
-# project
+# Login and Registration Page
 
-A new Flutter project.
+A Flutter project which has Login and Register page. User can enter his/her credentials in login page. In the signup page, user can enter his/her details like email, set password and full name.
 
-## Getting Started
+## Features
+The Flutter application has navigation logic between login and Registration page. User can navigate between the two pages using navigator.push() logic.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+1.Login Page
+<img width="322" height="732" alt="image" src="https://github.com/user-attachments/assets/b40fcccc-77ac-4f18-a368-3a5fec02e42a" />
 
-A few resources to get you started if this is your first Flutter project:
+2.Register Page
+<img width="330" height="728" alt="image" src="https://github.com/user-attachments/assets/9c40b315-6637-4853-9975-566423645780" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## To run the project
+1)Turn on a virtual device and select it.
+2)Hit the run button or type flutter run in the terminal.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies used
+Programming language- **Dart** 
+UI Framework- **Flutter** 
